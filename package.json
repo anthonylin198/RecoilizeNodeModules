@@ -1,0 +1,24 @@
+{
+  "name": "recoilize",
+  "version": "2.0.0",
+  "description": "Debug your recoil applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonylin198/RecoilizeNodeModules.git"
+  },
+  "keywords": [
+    "recoil",
+    "state",
+    "management"
+  ],
+  "author": "Anthony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonylin198/RecoilizeNodeModules/issues"
+  },
+  "homepage": "https://github.com/anthonylin198/RecoilizeNodeModules#readme"
+}
