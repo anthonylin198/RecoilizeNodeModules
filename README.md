@@ -4,43 +4,25 @@
 <img src='./assets/cover-photo-logo-recoilize.jpg' width=100%>
 </p>
 
-# [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/oslabs-beta/Recoilize/blob/staging/LICENSE) [![npm version](https://img.shields.io/npm/v/recoilize)](https://www.npmjs.com/package/recoilize) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+<!-- # [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/oslabs-beta/Recoilize/blob/staging/LICENSE) [![npm version](https://img.shields.io/npm/v/recoilize)](https://www.npmjs.com/package/recoilize) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg) -->
 
-<p>
+<!-- <p>
 Recoilize is a Chrome Dev Tool meant for debugging applications built with the new Recoil.js state management library!
 </p>
 <p>
 Get Recoilize on the <a href='https://chrome.google.com/webstore/detail/recoilize/jhfmmdhbinleghabnblahfjfalfgidik'>Chrome Store!</a>
-</p>
+</p> -->
 
 <h1 align='center'>
 State Debugger for Recoil (Still in Beta)
 </h1>
 
-<h2 align='center'>Shows the difference in atoms and selectors from the previous render</h2>
+# [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/oslabs-beta/Recoilize/blob/staging/LICENSE) [![npm version](https://img.shields.io/npm/v/recoilize)](https://www.npmjs.com/package/recoilize) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+
+<!-- <h2 align='center'>Shows the difference in atoms and selectors from the previous render</h2> -->
 <h1 align='center'> 
 <img src='./assets/state-diff.gif' width=600 />
 </h1>
-
-<!-- <h2 align='center'>View your atoms and selectors in a collapsible tree</h2>
-<h1 align='center'>
-<img src='./src/extension/build/assets/state-tree.gif' width=600 />
-</h1>
-
-<h2 align='center'>Visualize all your atom and selector values in a graph</h2>
-<h1 align='center'>
-<img src='./src/extension/build/assets/state-graph.gif' width=600 />
-</h1>
-
-<h2 align='center'>Display how all your atoms and selectors relate to each other</h2>
-<h1 align='center'>
-<img src='./src/extension/build/assets/atom-network.gif' width=600 />
-</h1>
-
-<h2 align='center'>See which of your React components are subscribed to certain atoms and selectors</h2>
-<h1 align='center'>
-<img src='./src/extension/build/assets/component-graph.gif' width=600 />
-</h1> -->
 
 <h1 align='center'>
 Installation
