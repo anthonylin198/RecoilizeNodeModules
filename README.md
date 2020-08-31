@@ -19,7 +19,7 @@ State Debugger for Recoil (Still in Beta)
 
 <h2 align='center'>Shows the difference in atoms and selectors from the previous render</h2>
 <h1 align='center'> 
-<img src='./src/extension/build/assets/state-diff.gif' width=600 />
+<img src='./assets/state-diff.gif' width=600 />
 </h1>
 
 <!-- <h2 align='center'>View your atoms and selectors in a collapsible tree</h2>
